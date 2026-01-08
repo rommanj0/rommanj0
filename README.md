@@ -13,7 +13,7 @@
 <div style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; margin-bottom: 24px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" title="MySQL" />
-  <img src="https://camo.githubusercontent.com/ce5fd7311e4b4a1edb9dece213e1a445f9bc9d8e28a0cf8a6ba1c12f6a860345/68747470733a2f2f69636f6e2e69636570616e656c2e696f2f546563686e6f6c6f67792f7376672f52656469732e737667" alt="Redis" width="40" title="Redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" title="Redis" />
 </div>
 
 ---
